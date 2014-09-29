@@ -1,0 +1,43 @@
+#header
+{
+	padding-top: 5px;
+}
+
+#footer
+{
+	background-color: black;
+	padding-bottom: 50px;
+}
+
+div.spacer 
+{
+	height: 0.5em;
+}
+
+#video
+{
+	padding-top: 39px;
+}
+
+#titlePanel
+{
+	margin-top: 13px;
+	font-family: Century Gothic, Arial;
+	font-size: 20px;
+}
+
+
+#reelholder
+{
+	height:491px;
+}
+
+#voiceclip
+{
+	height:445px;
+	width: 720px;
+	margin-top: 25px;
+	font-family: Century Gothic, Arial;
+	font-size: 26px;
+	text-align: center;
+}

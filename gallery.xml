@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	indexPageName="galleryIndex.html"
+	galleryHeight="105%"
+	backgroundTransparent="true"
+	frameColor="000000"
+	frameWidth="10"
+	showOpenButton="false"
+	showFullscreenButton="false"
+	textColor="000000"
+
+>
+  <image imageURL="images/IMG_9102 CO.jpg"
+	thumbURL="thumbs/IMG_9102 CO.jpg"
+	linkURL="images/IMG_9102 CO.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Headshot]]></caption>
+  </image>
+  <image imageURL="images/IMG_9211 CO.jpg"
+	thumbURL="thumbs/IMG_9211 CO.jpg"
+	linkURL="images/IMG_9211 CO.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Headshot]]></caption>
+  </image>
+  <image imageURL="images/IMG_9273 CO.jpg"
+	thumbURL="thumbs/IMG_9273 CO.jpg"
+	linkURL="images/IMG_9273 CO.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Headshot]]></caption>
+  </image>
+  <image imageURL="images/Plebeianup-150347.jpg"
+	thumbURL="thumbs/Plebeianup-150347.jpg"
+	linkURL="images/Plebeianup-150347.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[The Plebeians Rehearse The Uprising]]></caption>
+  </image>
+  <image imageURL="images/Plebeianup-150934.jpg"
+	thumbURL="thumbs/Plebeianup-150934.jpg"
+	linkURL="images/Plebeianup-150934.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[The Plebeians Rehearse The Uprising]]></caption>
+  </image>
+  <image imageURL="images/Plebeianup-152429.jpg"
+	thumbURL="thumbs/Plebeianup-152429.jpg"
+	linkURL="images/Plebeianup-152429.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[The Plebeians Rehearse The Uprising]]></caption>
+  </image>
+  <image imageURL="images/Plebeianup-152559.jpg"
+	thumbURL="thumbs/Plebeianup-152559.jpg"
+	linkURL="images/Plebeianup-152559.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[The Plebeians Rehearse The Uprising]]></caption>
+  </image>
+  <image imageURL="images/Plebeianup-154526.jpg"
+	thumbURL="thumbs/Plebeianup-154526.jpg"
+	linkURL="images/Plebeianup-154526.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[The Plebeians Rehearse The Uprising]]></caption>
+  </image>
+  <image imageURL="images/Plebeianup-155110.jpg"
+	thumbURL="thumbs/Plebeianup-155110.jpg"
+	linkURL="images/Plebeianup-155110.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[The Plebeians Rehearse The Uprising]]></caption>
+  </image>
+</simpleviewergallery>

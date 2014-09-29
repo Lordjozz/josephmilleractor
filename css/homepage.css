@@ -1,0 +1,53 @@
+
+#header
+{
+	padding-top: 5px;
+}
+
+#news
+{
+	width: 320px;
+	height: 116px;
+	padding-bottom: 20px;
+	margin-bottom: 30px;
+	margin-top: -10px;
+	font-family: Century Gothic, Arial;
+}
+
+#news p
+{
+	margin-top:30px;
+	font-size:20px;	
+}
+
+#news p2
+{
+	font-size:14px;
+}
+
+#twitter
+{
+	margin-left:0px;
+}
+
+
+div.spacer 
+{
+	height: 0.5em;
+}
+
+#newsBreak
+{
+	margin: 0px;
+	margin-bottom: 22px;
+	height: 2px;
+	background-color: black;
+}
+
+#newsBreak2
+{
+	margin: 0px;
+	margin-bottom: 0px;
+	height: 2px;
+	background-color: black;
+}

@@ -1,0 +1,50 @@
+
+#header
+{
+	padding-top: 5px;
+}
+
+#titlePanel
+{
+	margin-top: 13px;
+	font-family: Century Gothic, Arial;
+	font-size: 20px;
+}
+
+#footer
+{
+	background-color: black;
+	padding-bottom: 50px;
+}
+
+div.spacer 
+{
+	height: 0.5em;
+}
+
+#linebreak
+{
+	margin-top:5px;
+	margin-bottom:15px;
+	height: 2px;
+	background-color: black;
+}
+
+#linebreak2
+{
+	margin-top:-1px;
+	margin-bottom:10px;
+	height: 2px;
+	background-color: black;
+}
+
+#biography
+{
+	margin-top: 25px;
+	font-family: Century Gothic, Arial;
+	font-size: 14px;
+	height: 466px;
+	width: 580px;
+	
+	overflow:auto;
+}
